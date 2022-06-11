@@ -52,7 +52,8 @@ Total: 74.68
 SOLUTION
 --------
 
-Solution is provided in Java. 
+Solution is provided in Java. Source code is available in ./src folder.
+
 Environment setup:
 Java 1.8
 Spring Tool Suite (IDE)
