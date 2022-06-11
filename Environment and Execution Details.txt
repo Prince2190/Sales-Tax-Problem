@@ -1,0 +1,13 @@
+Environment setup:
+Java 1.8
+Spring Tool Suite (IDE)
+Junit 4
+
+How to run the project?
+There are two ways:
+1. Import this Java project in your IDE with the given specifications for environment setup and run the project or “SalesTaxApplication.java” 
+   present in src/main/java/com/salestax. Default input files are provided in assets folder for program input (./assets/input1.txt, ./assets/input2.txt, 
+  ./assets/input3.txt). Or you can provide full path of your input file(s) as command line arguments. Output will be displayed in console.
+
+2. “SalesTaxApplication.jar” is an execuatable jar provided in parent directory. You can run it using java -jar <jar-file> <command-line-args-if-any>. 
+   If no command line argument is provided and it is running from same parent directory then it will take input files from assets folder.
