@@ -56,8 +56,8 @@ Solution is provided in Java. Source code is available in ./src folder.
 Main file: ./src/main/java/com/salestax/SalesTaxApplication.java
 
 Environment setup:
-Java 1.8
-Spring Tool Suite (IDE)
+Java 1.8,
+Spring Tool Suite (IDE),
 Junit 4
 
 How to run the project?
