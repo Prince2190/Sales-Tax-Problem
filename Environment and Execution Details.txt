@@ -1,4 +1,4 @@
-Source code is available in ./src folder.
+Source code is available in ./src folder. Main file: ./src/main/java/com/salestax/SalesTaxApplication.java
 
 Environment setup:
 Java 1.8

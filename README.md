@@ -52,7 +52,8 @@ Total: 74.68
 SOLUTION
 --------
 
-Solution is provided in Java. Source code is available in ./src folder.
+Solution is provided in Java. Source code is available in ./src folder. 
+Main file: ./src/main/java/com/salestax/SalesTaxApplication.java
 
 Environment setup:
 Java 1.8
